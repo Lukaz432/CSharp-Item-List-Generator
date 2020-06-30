@@ -1,0 +1,10 @@
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\bin\Debug\CSharp-List.exe.config
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\bin\Debug\CSharp-List.exe
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\bin\Debug\CSharp-List.pdb
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\obj\Debug\CSharp-List.csprojAssemblyReference.cache
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\obj\Debug\CSharp_List.Form1.resources
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\obj\Debug\CSharp_List.Properties.Resources.resources
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\obj\Debug\CSharp-List.csproj.GenerateResource.cache
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\obj\Debug\CSharp-List.csproj.CoreCompileInputs.cache
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\obj\Debug\CSharp-List.exe
+C:\Users\NASA\source\repos\CSharp-List\CSharp-List\obj\Debug\CSharp-List.pdb
